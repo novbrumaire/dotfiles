@@ -1,0 +1,52 @@
+Xft.antialias:  true 
+Xft.autohint:   false 
+Xft.dpi:        96
+Xft.hinting:    true 
+Xft.hintstyle:  hintfull 
+Xft.lcdfilter:  lcddefault
+Xft.rgba: rgb
+
+! urxvt
+URxvt*saveLines: 5000
+URxvt*scrollBar: false
+
+URxvt*font: -*-dina-medium-r-*-*-*-80-*-*-*-*-*-*
+URxvt*italic: -*-dina-medium-*-*-*-*-80-*-*-*-*-*-*
+URxvt*boldFont: -*-dina-bold-r-*-*-*-80-*-*-*-*-*-*
+
+! special
+*.foreground:   #f8f8f8
+*.background:   #262626
+*.cursorColor:  #f03e3e
+
+! black
+*.color0:       #212121
+*.color8:       #494949
+
+! red
+*.color1:       #f03e3e
+*.color9:       #ff6b6b
+
+! green
+*.color2:       #94d82d
+*.color10:      #c0eb75
+
+! yellow
+*.color3:       #ff922b
+*.color11:      #ffc078
+
+! blue
+*.color4:       #228ae6
+*.color12:      #4dadf7
+
+! magenta
+*.color5:       #845ef7
+*.color13:      #b197fc
+
+! cyan
+*.color6:       #22b8cf
+*.color14:      #66d9e8
+
+! white
+*.color7:       #f1f1f1
+*.color15: 	#f8f8f8

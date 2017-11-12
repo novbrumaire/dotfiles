@@ -1,0 +1,6 @@
+# player options
+player=mpv --cache 2048
+
+#crunchyroll auth
+crunchyroll-username=
+crunchyroll-password=
