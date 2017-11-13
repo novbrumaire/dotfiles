@@ -17,4 +17,5 @@ ln -s ${CONFDIR}/streamlinkrc ~/.streamlinkrc
 ln -s ${CONFDIR}/i3config ~/.config/i3/config
 ln -s ${CONFDIR}/i3status ~/.config/i3/i3status.conf
 
-
+# compton
+ln -s ${CONFDIR}/compton ~/.config/compton.conf
